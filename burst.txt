@@ -34,6 +34,11 @@ Settingan tanpa burst
 2. Bulanan 1Mbps = 50rb
 683k/1150k 0/0 0/0 0/0 8 256k/512k
 
+Referensi:
+https://wiki.mikrotik.com/wiki/Manual:Queues_-_Burst
+https://mikrotik.id/artikel_lihat.php?id=297
+https://caprt3a.blogspot.com/2019/03/menerapkan-burst-pada-simple-queue.html
+
 3. Bulanan 1,5Mbps = 75rb
 683k/1633k 0/0 0/0 0/0 8 512k/768k
 
