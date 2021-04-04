@@ -1,47 +1,17 @@
-1. Bulanan 1Mbps = 50rb
-683k/1150k 1024k/1725k 512k/863k 20/20
+1 Bulan 1 perangkat login 30rb
+768k/867k 1152k/1300k 576k/650k 20/20 8 512k/512k
 
-2. Bulanan 1,5Mbps = 75rb
-683k/1633k 1024k/2450k 512k/1225k 20/20
+1 Bulan 1 perangkat login 50rb
+768k/1300k 1152k/1950k 576k/975k 20/20 8 512k/512k Bulanan 1Mbps = 50rb
 
-3. Bulanan 2Mbps = 100rb
-1024k/2200k 1536k/3300k 768k/1650k 20/20
+1 Jam 1rb & 2 Jam 2rb 1 perangkat login
+1024k/1707k 1536k/2560k 768k/1280k 20/20 8 512k/512k
 
-4. Bulanan 3Mbps = 150rb
-1024k/3200k 1536k/4800k 768k/2400k 20/20
+1 Hari 5rb 1 perangkat login
+768k/1200k 1152k/1800k 576k/900k 20/20 8 512k/512k
 
-5. Bulanan 4Mbps = 200rb
-1024k/4200k 1536k/6300k 768k/3150k 20/20
-
-6. Bulanan 5Mbps = 250rb
-1024k/5200k 1536k/7800k 768k/3900k 20/20
-
-7. Bulanan 6Mbps = 300rb
-1024k/6200k 1536k/9300k 768k/4650k 20/20
-
-
-Settingan tanpa burst
-
-1. Bulanan 1Mbps = 50rb
-683k/1150k
-
-2. Bulanan 1,5Mbps = 75rb
-683k/1633k
-
-3. Bulanan 2Mbps = 100rb
-1024k/2200k
-
-4. Bulanan 3Mbps = 150rb
-1024k/3200k
-
-5. Bulanan 4Mbps = 200rb
-1024k/4200k
-
-6. Bulanan 5Mbps = 250rb
-1024k/5200k
-
-7. Bulanan 6Mbps = 300rb
-1024k/6200k
+1 Minggu 20rb 1 perangkat login
+768k/1200k 1152k/1800k 576k/900k 20/20 8 512k/512k
 
 
 Referensi:
